@@ -18,4 +18,4 @@ put stories in the dir corresponding to the setting
 5. go back to [localhost:12588/setting.html](http://localhost:12588/setting.html) and check result at the bottom of the webpage.
 
 ### API
-```http://dorami.iis.sinica.edu.tw:12588/api?action=[action]&[key]=[value]```
+```http://localhost:12588/api?action=[action]&[key]=[value]```
